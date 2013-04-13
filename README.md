@@ -17,5 +17,6 @@ Melanders Drag and Drop components work very well with older versions of Delphi.
 The repository has been created here to distribute a modified version of the components that work with unicode Delphi versions. This repository is not being maintained Anders Melander. 
 
 ====Project Goals====
+
 1. Maintain the components so that they continue to work in up to date Delphi versions. 
 2. Write some expanded documentation.
